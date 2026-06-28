@@ -6,6 +6,10 @@ diamond, cube, square pyramid, cylinder, regular dodecahedron). Dispersive
 Fresnel glass, soft area-light shadows, and per-pixel adaptive temporal
 accumulation.
 
+## Screenshot
+
+![preview](screenshot.png)
+
 ## Requirements
 
 - macOS with a Metal **ray-tracing capable** GPU (Apple silicon M-series, or a
